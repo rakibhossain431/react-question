@@ -1,0 +1,14 @@
+.card{
+  width: 60%;
+  margin: auto;
+ background-color: rgb(142, 160, 160);
+ border-radius: 12px;
+}
+.card h1{
+  background-color: rgb(180, 161, 135);
+  border-bottom: 2px solid rgb(48, 44, 53);
+}
+.card p{
+ background-color: aqua;
+ font-size: 25px;
+}
